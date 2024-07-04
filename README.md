@@ -12,7 +12,6 @@ This is a simple Spring Boot application that demonstrates how to use MongoDB as
 
 ### Clone the Repository
 
-```bash
 git clone https://github.com/asrafshaikh/swift-courier.git
 cd swift-courier
 
@@ -26,9 +25,11 @@ spring.data.mongodb.host=localhost
 spring.data.mongodb.port=27017
 spring.data.mongodb.database=test
 
-## Build and Run the Application
-  Build the project: mvn clean install
-  Run the application: mvn spring-boot:run
+### Build and Run the Application
+
+Build the project: mvn clean install
+
+Run the application: mvn spring-boot:run
 
 
 
